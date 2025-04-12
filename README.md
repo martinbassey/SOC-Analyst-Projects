@@ -109,4 +109,4 @@ g. Use the phishing email as part of future phishing awareness training to educa
   
   
 --- 
--  **Project By:** ![Martin Bassey]([linkedin.com/in/martin-bassey])
+-  **Project By: Martin Bassey** 
