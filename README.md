@@ -1,4 +1,4 @@
-# SOC-Analyst-Projects
+# SOC-Analyst-Projects 1
 Phishing Email Analysis and Defense Documentation as Part of my #100DaysOfCybersecurityChallenge and SOC Analyst Portfolio
 
 # 📧 Phishing Email Analysis Report
